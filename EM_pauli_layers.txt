@@ -1,0 +1,1 @@
+{"EM_gates": [["YXXXZXY", "XIYYYXI"], ["XZXIZYX", "XYZYIZI"], ["YIXZYIY", "ZIZXYZZ"], ["IXIYIII", "XIZIIYI"], ["YYIZXIZ", "XYYXYYZ"], ["IIIIYYX", "XZIIYXX"]], "state_prep_readout": ["ZXYXIXX", "XIYZZXI"]}
